@@ -11,7 +11,7 @@ to bypass windows smart screen. Disables Defender, UAC/user account control, Def
 
 The light version is less noisy and only delivers/executes payload, creates a scheduled task named "WindowsDefender" to run payload at login for persistence and injects/creates Command Prompt and Microsoft Edge shortcuts with payload path.
 
-# Prerequisites
+# Prerequisites:
 *Python 2.7, Modules imported in script.
 (random, sys, string, os, time, base64)
 
