@@ -11,7 +11,7 @@ def prnt():
 		*Downloads payload to TEMP directory and executes payload
 		to bypass windows smart screen
 		
-		*Injects Command Prompt and Microsoft Edge
+		*Injects/creates Command Prompt and Microsoft Edge
 		shortcuts with payload path
 
 		*Adds scheduled task for payload to be run at login
