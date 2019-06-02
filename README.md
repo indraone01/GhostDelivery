@@ -1,6 +1,6 @@
 # GhostDelivery
 
-Obfuscated .vbs script to delvier payload.
+Obfuscated .vbs script to deliver payload.
 
 # Features: 
 Downloads payload to TEMP directory and executes payload
