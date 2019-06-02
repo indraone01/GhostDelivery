@@ -1,7 +1,6 @@
 # GhostDelivery
 
-This tool creates a obfuscated .vbs script to download a payload hosted on a server to %TEMP% directory, disable windows AV, execute payload and gain persistence
-by editing registry keys and creating a scheduled task to run payload at login.  
+Obfuscated .vbs script to delvier payload.
 
 # Features: 
 Downloads payload to TEMP directory and executes payload
